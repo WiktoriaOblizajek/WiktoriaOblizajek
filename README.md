@@ -1,7 +1,7 @@
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!&fontSize=90&fontColor=ffffff&align=center)
 
-# I'm Wiktoria, a self-taught programmer with 1.5 years of experience. 👩‍💻
+# I'm Wiktoria, a self-taught programmer with 2.5 years of experience. 👩‍💻
 
 ### My passion is creating and designing websites, and I also have a keen interest in Databases. If you need help building a website for yourself or your company, I'd be happy to assist. Apart from programming, I study English philology. In my free time, I enjoy:
 
@@ -23,8 +23,6 @@ Nice to meet you!
 <br>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WiktoriaOblizajek&show_icons=true&theme=cobalt&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WiktoriaOblizajek&layout=compact&langs_count=5&theme=cobalt)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
