@@ -1,9 +1,11 @@
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hi%20everyone!&fontSize=90&fontColor=ffffff&align=center)
 
-# I'm Wiktoria, a self-taught programmer with 2.5 years of experience. 👩‍💻
+# I'm Wiktoria, a self-taught programmer with 3 years of experience and an SEO specialist since March 2024. 👩‍💻
 
-### My passion is creating and designing websites, and I also have a keen interest in Databases. If you need help building a website for yourself or your company, I'd be happy to assist. Apart from programming, I study English philology. In my free time, I enjoy:
+### I hold a Bachelor's degree in English Philology. In my SEO work, I especially enjoy link building and coding newsletters, combining creativity with technical skills.
+
+In my free time, I enjoy:
 
 - weightlifting 🏋️‍♀️
  - sewing :thread:
